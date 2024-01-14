@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋 Welcome to my GitHub Profile!
 
-<!--
-**Sukhpreet-s/Sukhpreet-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+<div align="center">
+  <img width="720" src="{{ unsplash-url }}" alt="{{ unsplash-alt-description }}">
+  
+  <em>{{ unsplash-alt-description }}</em>
+  
+  <em>{{ unsplash-description }}</em>
+  
+  Photo by [{{ unsplash-name }}]({{ unsplash-portfolio-url }}) on [unsplash.com](https://unsplash.com/)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+☝️ A random image is retrieved and posted to my profile daily via the [BagToad/random-unsplash-action](https://github.com/BagToad/random-unsplash-action) action!
