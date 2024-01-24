@@ -26,4 +26,4 @@ jobs:
             unsplash_token: ${{ secrets.UNSPLASH_TOKEN }} # Required
             github_token: ${{ secrets.GITHUB_TOKEN }} # Required
             template: ./template.md # Required
-            query: "wake up" # Optional
+            query: "sunshine" # Optional
