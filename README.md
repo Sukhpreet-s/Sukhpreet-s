@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1514519273132-6a1abd48302c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY2ODEzNDN8&ixlib=rb-4.0.3&q=80&w=1080" alt="party clouds">
+  <img width="720" src="https://images.unsplash.com/photo-1593030659127-893c67cbc4ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY3Njc3MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="green mountains under blue sky during daytime">
   
-  <em>party clouds</em>
+  <em>green mountains under blue sky during daytime</em>
   
-  <em>Sunsets!</em>
+  <em>In the mountains, above the clouds in California.</em>
   
-  Photo by [Diego PH](http://www.instagram.com/j.diegoph/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Sean Stone](https://www.nomossproductions.com/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
