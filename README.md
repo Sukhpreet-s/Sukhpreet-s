@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1554866655-a4f86846341f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY5NDA0NzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="sunflower field">
+  <img width="720" src="https://images.unsplash.com/photo-1463467315416-89b8fba72fd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDcwMjY4NzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="white jellyfish in body of water">
   
-  <em>sunflower field</em>
+  <em>white jellyfish in body of water</em>
   
-  <em>null</em>
+  <em>Jellyfish underwater view</em>
   
-  Photo by [Danielle Comer](https://daniellecomercreative.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Jeremy Bishop](https://www.jeremybishopphotography.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
