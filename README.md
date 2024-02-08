@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1533634923031-5ddbd8505b92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDcyODYxMjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="wheat photo during sunrise">
+  <img width="720" src="https://images.unsplash.com/photo-1528223688719-f0a7d37a3fed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDczNzI1ODN8&ixlib=rb-4.0.3&q=80&w=1080" alt="green leaf plant">
   
-  <em>wheat photo during sunrise</em>
+  <em>green leaf plant</em>
   
-  <em>null</em>
+  <em>Whoever said the Bay Area was gloomy, didn’t know this spot.</em>
   
-  Photo by [jötâkå](https://pragmart.wordpress.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Michal Pechardo](https://mpechardo.smugmug.com/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
