@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1528223688719-f0a7d37a3fed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDczNzI1ODN8&ixlib=rb-4.0.3&q=80&w=1080" alt="green leaf plant">
+  <img width="720" src="https://images.unsplash.com/photo-1490698900541-76d9b74bdcac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDc0NTg5MTR8&ixlib=rb-4.0.3&q=80&w=1080" alt="person showing black and white compass">
   
-  <em>green leaf plant</em>
+  <em>person showing black and white compass</em>
   
-  <em>Whoever said the Bay Area was gloomy, didn’t know this spot.</em>
+  <em>Setting sun in the West</em>
   
-  Photo by [Michal Pechardo](https://mpechardo.smugmug.com/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Tim Graf](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
