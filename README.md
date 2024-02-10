@@ -3,13 +3,15 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1490698900541-76d9b74bdcac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDc0NTg5MTR8&ixlib=rb-4.0.3&q=80&w=1080" alt="person showing black and white compass">
+  <img width="720" src="https://images.unsplash.com/photo-1516660443713-dff5202a3230?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDc1NDUyNDl8&ixlib=rb-4.0.3&q=80&w=1080" alt="seashore near city under cloudy skies">
   
-  <em>person showing black and white compass</em>
+  <em>seashore near city under cloudy skies</em>
   
-  <em>Setting sun in the West</em>
+  <em>Rio de Janeiro, 2015
+More at www.shotbycerqueira.com
+Follow us on Instagram too @shotbycerqueira and @incrediblerafa</em>
   
-  Photo by [Tim Graf](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Shot by Cerqueira](http://www.shotbycerqueira.com.br) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
