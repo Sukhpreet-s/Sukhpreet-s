@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1505027492977-1037f14c46fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDc3MTgxMzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette of person jumping under tree">
+  <img width="720" src="https://images.unsplash.com/photo-1463663090918-4d8338918803?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDc4MDQ1NzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="close up shot of white flower">
   
-  <em>silhouette of person jumping under tree</em>
+  <em>close up shot of white flower</em>
   
-  <em>POINT REYES AT SUN RISE </em>
+  <em>White daisy in grass</em>
   
-  Photo by [Leo_Visions](https://linktr.ee/stephenleo1982) on [unsplash.com](https://unsplash.com/)
+  Photo by [Christian Widell](http://christianwidell.weebly.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
