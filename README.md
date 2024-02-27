@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1542804420-dad10f4469b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDg5Mjc3NDd8&ixlib=rb-4.0.3&q=80&w=1080" alt="orange-petaled flower plants">
+  <img width="720" src="https://images.unsplash.com/photo-1554866655-a4f86846341f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDkwMTQxMjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="sunflower field">
   
-  <em>orange-petaled flower plants</em>
+  <em>sunflower field</em>
   
   <em>null</em>
   
-  Photo by [Diana Parkhouse](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Danielle Comer](https://daniellecomercreative.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
