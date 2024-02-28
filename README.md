@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1554866655-a4f86846341f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDkwMTQxMjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="sunflower field">
+  <img width="720" src="https://images.unsplash.com/photo-1463663090918-4d8338918803?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDkxMDA1MTd8&ixlib=rb-4.0.3&q=80&w=1080" alt="close up shot of white flower">
   
-  <em>sunflower field</em>
+  <em>close up shot of white flower</em>
   
-  <em>null</em>
+  <em>White daisy in grass</em>
   
-  Photo by [Danielle Comer](https://daniellecomercreative.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Christian Widell](http://christianwidell.weebly.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
