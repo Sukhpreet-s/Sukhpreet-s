@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1502047342304-f9ac48cf608d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTA5MTQ5Mzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="selective photo of brown wheat">
+  <img width="720" src="https://images.unsplash.com/photo-1454649978226-6dd578c28449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTEwMDEzMzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="clouds above mountains during golden hour">
   
-  <em>selective photo of brown wheat</em>
+  <em>clouds above mountains during golden hour</em>
   
-  <em>Fields of Gold</em>
+  <em>null</em>
   
-  Photo by [Jez Timms](https://jeztimms.carrd.co) on [unsplash.com](https://unsplash.com/)
+  Photo by [Sebastien Gabriel](https://twitter.com/kounterb) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
