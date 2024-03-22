@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1454649978226-6dd578c28449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTEwMDEzMzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="clouds above mountains during golden hour">
+  <img width="720" src="https://images.unsplash.com/photo-1490698900541-76d9b74bdcac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTEwODc3MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="person showing black and white compass">
   
-  <em>clouds above mountains during golden hour</em>
+  <em>person showing black and white compass</em>
   
-  <em>null</em>
+  <em>Setting sun in the West</em>
   
-  Photo by [Sebastien Gabriel](https://twitter.com/kounterb) on [unsplash.com](https://unsplash.com/)
+  Photo by [Tim Graf](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
