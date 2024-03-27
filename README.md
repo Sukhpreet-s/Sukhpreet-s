@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1470115636492-6d2b56f9146d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTE0MzM0MzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="empty concrete road covered surrounded by tall tress with sun rays">
+  <img width="720" src="https://images.unsplash.com/photo-1575527701983-ccb95b6ec5e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTE1MTk3MzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="snow field">
   
-  <em>empty concrete road covered surrounded by tall tress with sun rays</em>
+  <em>snow field</em>
   
-  <em>Beam of light on a forest road</em>
+  <em>Sunny day at the mountain.</em>
   
-  Photo by [JOHN TOWNER](http://www.townerphoto.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Kamala Bright](https://www.zazzle.com/store/mistyrosephotography) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
