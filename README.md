@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1575527701983-ccb95b6ec5e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTE2OTI1MzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="snow field">
+  <img width="720" src="https://images.unsplash.com/photo-1523457468663-00fe17545879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTE3Nzg4ODJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photography of black wooden dock near shoreline during sunrise">
   
-  <em>snow field</em>
+  <em>silhouette photography of black wooden dock near shoreline during sunrise</em>
   
-  <em>Sunny day at the mountain.</em>
+  <em>South Carolina Sunrise</em>
   
-  Photo by [Kamala Bright](https://www.zazzle.com/store/mistyrosephotography) on [unsplash.com](https://unsplash.com/)
+  Photo by [Kirk Van Nort](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
