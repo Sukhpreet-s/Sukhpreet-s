@@ -3,15 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1566827166589-66d9174bd38e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTI2NDI5NDJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="a blurry photo of water and plants in a pond">
+  <img width="720" src="https://images.unsplash.com/photo-1636666046461-699d953372b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTI3MjkzNjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="the sun shines through the leaves of a tree">
   
-  <em>a blurry photo of water and plants in a pond</em>
+  <em>the sun shines through the leaves of a tree</em>
   
-  <em>Ripples in the sea over the waters of Marmara. Moss covered steps leading in and out. Rocks and sunshine in green and yellow.
-
-Buyukada, August 2019</em>
+  <em>null</em>
   
-  Photo by [Hulki Okan Tabak](http://www.hulkiokantabak.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Aurélien Lemasson-Théobald](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
