@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1560089670-29e268f724f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTI4MTU3NjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="sun rays coming through trees">
+  <img width="720" src="https://images.unsplash.com/photo-1635668422751-52b2c61f8e0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTI5MDIxNzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="the sun is setting over the mountains and water">
   
-  <em>sun rays coming through trees</em>
+  <em>the sun is setting over the mountains and water</em>
   
   <em>null</em>
   
-  Photo by [Hersh Chauhan](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Niklas Jonasson](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
