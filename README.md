@@ -3,13 +3,15 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1596907734070-6d9f10f1b8cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ3MTY1NTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="sunflower field under white sky during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1534685785745-60a2cea0ec34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ4MDI5MDl8&ixlib=rb-4.0.3&q=80&w=1080" alt="person standing on top of mountain">
   
-  <em>sunflower field under white sky during daytime</em>
+  <em>person standing on top of mountain</em>
   
-  <em>Sunflower Fields</em>
+  <em>Have you ever done something that you always dreamed of doing?
+
+Stay tuned friends! I have something to show you! 🎥</em>
   
-  Photo by [Gayatri Malhotra](http://gayatrimalhotra.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Alessandro Erbetta](https://www.instagram.com/alessandro.erbetta/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
