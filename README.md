@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1501640333096-233ecc25c2f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTUxNDg1NDN8&ixlib=rb-4.0.3&q=80&w=1080" alt="person in front of lake">
+  <img width="720" src="https://images.unsplash.com/photo-1571783480255-3ac44aefc6e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTUyMzQ5Nzd8&ixlib=rb-4.0.3&q=80&w=1080" alt="calm body of water during golden hour">
   
-  <em>person in front of lake</em>
+  <em>calm body of water during golden hour</em>
   
-  <em>Sun shining through hands</em>
+  <em>Sunrise featuring Penang Bridge from a drone point of view.</em>
   
-  Photo by [Garrett Anderson](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [SR](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
