@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1484538162795-891443f6074f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU1ODA2MDV8&ixlib=rb-4.0.3&q=80&w=1080" alt="selective focus photography of frozen bubble on pine tree branch during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1528057255452-e149482be68c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU2NjcwNzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="white and grey cloudy sky">
   
-  <em>selective focus photography of frozen bubble on pine tree branch during daytime</em>
+  <em>white and grey cloudy sky</em>
   
-  <em>Ice bubble on branch</em>
+  <em>Stories of the Divine</em>
   
-  Photo by [Aaron Burden](http://aaronburden.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Mariam Soliman](https://www.mariamsoliman.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
