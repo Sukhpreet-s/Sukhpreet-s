@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1528057255452-e149482be68c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU2NjcwNzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="white and grey cloudy sky">
+  <img width="720" src="https://images.unsplash.com/photo-1623670138900-b8f71fb29a31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU3NTMzOTB8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field with trees">
   
-  <em>white and grey cloudy sky</em>
+  <em>green grass field with trees</em>
   
-  <em>Stories of the Divine</em>
+  <em>null</em>
   
-  Photo by [Mariam Soliman](https://www.mariamsoliman.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Vincent Erik Schoenmakers](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
