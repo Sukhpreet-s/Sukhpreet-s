@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1444948349385-a7749b254e33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY2MTc0MjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="grass field with mountain range">
+  <img width="720" src="https://images.unsplash.com/photo-1593030659127-893c67cbc4ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY3MDM3MzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green mountains under blue sky during daytime">
   
-  <em>grass field with mountain range</em>
+  <em>green mountains under blue sky during daytime</em>
   
-  <em>null</em>
+  <em>In the mountains, above the clouds in California.</em>
   
-  Photo by [Joseph Young](https://society6.com/josephyoung) on [unsplash.com](https://unsplash.com/)
+  Photo by [Sean Stone](https://www.nomossproductions.com/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
