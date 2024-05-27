@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1593030659127-893c67cbc4ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY3MDM3MzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green mountains under blue sky during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1521734514390-255a6ad11206?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY3OTAyNzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="bird's eye view of people surfing sea waves">
   
-  <em>green mountains under blue sky during daytime</em>
+  <em>bird's eye view of people surfing sea waves</em>
   
-  <em>In the mountains, above the clouds in California.</em>
+  <em>Look how cool the water cast gives the imagem depth.</em>
   
-  Photo by [Sean Stone](https://www.nomossproductions.com/) on [unsplash.com](https://unsplash.com/)
+  Photo by [João Ferreira](http://www.instagram.com/joaopedrodesign) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
