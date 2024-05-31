@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1516815231560-8f41ec531527?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTcwNDk0MTF8&ixlib=rb-4.0.3&q=80&w=1080" alt="boat on body of water under cloudy sky">
+  <img width="720" src="https://images.unsplash.com/photo-1505533321630-975218a5f66f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTcxMzU4NDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="white and blue cloudy sky">
   
-  <em>boat on body of water under cloudy sky</em>
+  <em>white and blue cloudy sky</em>
   
-  <em>A fantastic beach on the island of Medhufushi  in the Maldives.</em>
+  <em>Heavenly Cloud Scene</em>
   
-  Photo by [Colin Watts](https://youtube.com/@colinwattsphoto) on [unsplash.com](https://unsplash.com/)
+  Photo by [Davies Designs Studio](https://www.daviesdesigns.net/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
