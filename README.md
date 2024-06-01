@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1505533321630-975218a5f66f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTcxMzU4NDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="white and blue cloudy sky">
+  <img width="720" src="https://images.unsplash.com/photo-1461468611824-46457c0e11fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTcyMjIxNDN8&ixlib=rb-4.0.3&q=80&w=1080" alt="woman wearing gray long-sleeved shirt facing the sea">
   
-  <em>white and blue cloudy sky</em>
+  <em>woman wearing gray long-sleeved shirt facing the sea</em>
   
-  <em>Heavenly Cloud Scene</em>
+  <em>null</em>
   
-  Photo by [Davies Designs Studio](https://www.daviesdesigns.net/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Artem Kovalev](http://artemkovalev.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
