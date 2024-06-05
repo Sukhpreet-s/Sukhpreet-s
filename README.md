@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1419833173245-f59e1b93f9ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0ODE0MTd8&ixlib=rb-4.0.3&q=80&w=1080" alt="cloudy sky during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1485395578879-6ba080c9cdba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc1Njc4MzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="tilt shift lens photography of flower field during sunset">
   
-  <em>cloudy sky during daytime</em>
+  <em>tilt shift lens photography of flower field during sunset</em>
   
-  <em>For more travel inspiration, check out @samschooler on Instagram. </em>
+  <em>S U N S E T</em>
   
-  Photo by [Sam Schooler](https://samschooler.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Brian Garcia](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
