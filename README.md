@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1558618440-aae170f89f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkyMDk0NDl8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photo of grasses during golden hour">
+  <img width="720" src="https://images.unsplash.com/photo-1542591886-116a68c62325?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkyOTU4NDJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="man about to hike black and white mountain">
   
-  <em>silhouette photo of grasses during golden hour</em>
+  <em>man about to hike black and white mountain</em>
   
-  <em>Coastal grass swaying in the early morning breeze at the beach looking out a the sunrise over the ocean with a colorful orange sky with clouds.</em>
+  <em>Ray of Sunshine</em>
   
-  Photo by [Thomas Park](http://thomasparkart.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Tyler Reynolds](https://atlasadventure.co) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
