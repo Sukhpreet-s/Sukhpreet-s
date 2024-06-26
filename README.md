@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1542591886-116a68c62325?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkyOTU4NDJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="man about to hike black and white mountain">
+  <img width="720" src="https://images.unsplash.com/photo-1463663090918-4d8338918803?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkzODIyNDN8&ixlib=rb-4.0.3&q=80&w=1080" alt="close up shot of white flower">
   
-  <em>man about to hike black and white mountain</em>
+  <em>close up shot of white flower</em>
   
-  <em>Ray of Sunshine</em>
+  <em>White daisy in grass</em>
   
-  Photo by [Tyler Reynolds](https://atlasadventure.co) on [unsplash.com](https://unsplash.com/)
+  Photo by [Christian Widell](http://christianwidell.weebly.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
