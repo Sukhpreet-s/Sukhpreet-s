@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1485395578879-6ba080c9cdba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjA1MDU0Nzd8&ixlib=rb-4.0.3&q=80&w=1080" alt="tilt shift lens photography of flower field during sunset">
+  <img width="720" src="https://images.unsplash.com/photo-1490698900541-76d9b74bdcac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjA1OTE4NTR8&ixlib=rb-4.0.3&q=80&w=1080" alt="person showing black and white compass">
   
-  <em>tilt shift lens photography of flower field during sunset</em>
+  <em>person showing black and white compass</em>
   
-  <em>S U N S E T</em>
+  <em>Setting sun in the West</em>
   
-  Photo by [Brian Garcia](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Tim Graf](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
