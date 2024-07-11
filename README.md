@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1490698900541-76d9b74bdcac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjA1OTE4NTR8&ixlib=rb-4.0.3&q=80&w=1080" alt="person showing black and white compass">
+  <img width="720" src="https://images.unsplash.com/43/unsplash_522b9cc0386f1_1.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjA2NzgyNDl8&ixlib=rb-4.0.3&q=80&w=1080" alt="closeup photo of grasses near road">
   
-  <em>person showing black and white compass</em>
+  <em>closeup photo of grasses near road</em>
   
-  <em>Setting sun in the West</em>
+  <em>Swaying shrubs at dusk</em>
   
-  Photo by [Tim Graf](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Lukasz Szmigiel](https://photo.szmigiel.design/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
