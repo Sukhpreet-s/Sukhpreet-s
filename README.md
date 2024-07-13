@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1542804420-dad10f4469b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjA3NjQ2NjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="orange-petaled flower plants">
+  <img width="720" src="https://images.unsplash.com/photo-1527206363095-ca2f054128b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjA4NTA5NTV8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown parasol and two beach chairs on beach sand">
   
-  <em>orange-petaled flower plants</em>
+  <em>brown parasol and two beach chairs on beach sand</em>
   
-  <em>null</em>
+  <em>A last minute itinerary change brought us to this all-Inclusive beach club in Cozumel.  One easy payment & only 130 guests permitted per day.  Palapas, tasty food, music, beverages, sand in my toes, sea & sun.  Best ceviche ever!  Ahhh.</em>
   
-  Photo by [Diana Parkhouse](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [The Travel Nook](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
