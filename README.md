@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1528215747454-3d0e0902fff2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE4ODc4NzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="group of people at beach during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1501640333096-233ecc25c2f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE5NzQyODF8&ixlib=rb-4.0.3&q=80&w=1080" alt="person in front of lake">
   
-  <em>group of people at beach during daytime</em>
+  <em>person in front of lake</em>
   
-  <em>null</em>
+  <em>Sun shining through hands</em>
   
-  Photo by [Joel Casilla](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Garrett Anderson](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
