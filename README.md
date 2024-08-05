@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1528806830664-12f552cbabad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI3NTE3ODd8&ixlib=rb-4.0.3&q=80&w=1080" alt="two women walking on shore">
+  <img width="720" src="https://images.unsplash.com/photo-1622136061829-233df9804ae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI4MzgzMDV8&ixlib=rb-4.0.3&q=80&w=1080" alt="yellow leaf in close up photography">
   
-  <em>two women walking on shore</em>
+  <em>yellow leaf in close up photography</em>
   
-  <em>A road trip around Oahu and opportunity to respect the raw power of Pipeline, North Shore, Oahu.</em>
+  <em>Leaves of a tropical fig tree</em>
   
-  Photo by [Simon English](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Kelly Sikkema](http://inkypixelsdesign.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
