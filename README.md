@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1508011868393-d6513e812e5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ2NTI3MTB8&ixlib=rb-4.0.3&q=80&w=1080" alt="man leaning on wooden post while holding jacket">
+  <img width="720" src="https://images.unsplash.com/photo-1507445761851-c6c3c69b4512?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ3MzkwOTd8&ixlib=rb-4.0.3&q=80&w=1080" alt="white patio umbrella near body of water">
   
-  <em>man leaning on wooden post while holding jacket</em>
+  <em>white patio umbrella near body of water</em>
   
-  <em>null</em>
+  <em>I was on Tsia, an island in Greece, on my 9th day of travel, and I thought this picture captured the essence of summer perfectly - we try to be on the beach trying to beat the heat, relaxing, taking a break from work, having a drink.. And this beautiful afternoon in a not-so-touristy place with a few heads bobbing in the sea reflect that exact calmness which the word ‘summer’ exudes</em>
   
-  Photo by [frank mckenna](http://blog.frankiefoto.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Malhar Garud](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
