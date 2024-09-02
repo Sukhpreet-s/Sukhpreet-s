@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1419833173245-f59e1b93f9ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjUxNzExMTR8&ixlib=rb-4.0.3&q=80&w=1080" alt="cloudy sky during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1527822984742-e14743fc7f60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjUyNTc1NjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="plant in desert with sun glaring behind">
   
-  <em>cloudy sky during daytime</em>
+  <em>plant in desert with sun glaring behind</em>
   
-  <em>For more travel inspiration, check out @samschooler on Instagram. </em>
+  <em>This shot was well worth the wait. We studied the landscape and discovered this grove of Joshua Trees that would face directly into the setting sun. We waited for about 2 hours for the sunset to reach it’s peak and we saw the wonderful rays of light shining through the warped limbs. Such a peaceful moment.</em>
   
-  Photo by [Sam Schooler](https://samschooler.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Josh Carter](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
