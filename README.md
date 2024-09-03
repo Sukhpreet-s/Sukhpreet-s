@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1527822984742-e14743fc7f60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjUyNTc1NjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="plant in desert with sun glaring behind">
+  <img width="720" src="https://images.unsplash.com/photo-1519055548599-6d4d129508c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjUzNDM4OTZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="man standing front of seashore and houses">
   
-  <em>plant in desert with sun glaring behind</em>
+  <em>man standing front of seashore and houses</em>
   
-  <em>This shot was well worth the wait. We studied the landscape and discovered this grove of Joshua Trees that would face directly into the setting sun. We waited for about 2 hours for the sunset to reach it’s peak and we saw the wonderful rays of light shining through the warped limbs. Such a peaceful moment.</em>
+  <em>null</em>
   
-  Photo by [Josh Carter](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Edgar Chaparro](http://www.echaparro.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
