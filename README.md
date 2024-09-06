@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1531985268021-6169793a4f66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU1MTY3MTh8&ixlib=rb-4.0.3&q=80&w=1080" alt="woman taking selfie outdoors">
+  <img width="720" src="https://images.unsplash.com/photo-1522034477175-d97f456a4873?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU2MDMwOTB8&ixlib=rb-4.0.3&q=80&w=1080" alt="sunloungers under canopy on beach">
   
-  <em>woman taking selfie outdoors</em>
+  <em>sunloungers under canopy on beach</em>
   
-  <em>The mother of my children, the most beautiful person I know !</em>
+  <em>Summer is calling</em>
   
-  Photo by [Xavier Mouton Photographie](http://mxcaptures.myportfolio.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Vu Nguyen](https://activecog.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
