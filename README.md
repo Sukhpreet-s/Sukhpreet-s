@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1522034477175-d97f456a4873?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU2MDMwOTB8&ixlib=rb-4.0.3&q=80&w=1080" alt="sunloungers under canopy on beach">
+  <img width="720" src="https://images.unsplash.com/photo-1542677293-058dd3c36a53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU2ODk0Mjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="rock formation in body of water during golden hour">
   
-  <em>sunloungers under canopy on beach</em>
+  <em>rock formation in body of water during golden hour</em>
   
-  <em>Summer is calling</em>
+  <em>The Way the Ocean Behaves</em>
   
-  Photo by [Vu Nguyen](https://activecog.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Dave Hoefler](https://www.davehoefler.com/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
