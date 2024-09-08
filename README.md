@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1542677293-058dd3c36a53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU2ODk0Mjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="rock formation in body of water during golden hour">
+  <img width="720" src="https://images.unsplash.com/photo-1507431489734-ef0dbfbf88e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU3NzU4Mzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden hut beside seashore during orange sunset">
   
-  <em>rock formation in body of water during golden hour</em>
+  <em>brown wooden hut beside seashore during orange sunset</em>
   
-  <em>The Way the Ocean Behaves</em>
+  <em>Ocean View</em>
   
-  Photo by [Dave Hoefler](https://www.davehoefler.com/) on [unsplash.com](https://unsplash.com/)
+  Photo by [frank mckenna](http://blog.frankiefoto.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
