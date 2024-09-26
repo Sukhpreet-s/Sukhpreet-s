@@ -3,13 +3,14 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1526422392024-1ff58f85bfb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjcyNDQ3NTN8&ixlib=rb-4.0.3&q=80&w=1080" alt="woman on garden">
+  <img width="720" src="https://images.unsplash.com/photo-1534812647472-8dabaaad8caa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjczMzExNDl8&ixlib=rb-4.0.3&q=80&w=1080" alt="gray bricks road between tall trees and building">
   
-  <em>woman on garden</em>
+  <em>gray bricks road between tall trees and building</em>
   
-  <em>Self-care includes (but is not limited to) self-portraits in the park during lunch break.</em>
+  <em>A sunny day in Dumbo, Brookly
+https://www.instagram.com/mradamgong/</em>
   
-  Photo by [Ksenia Makagonova](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Adam Gong](https://www.theadamgong.com/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
