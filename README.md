@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1518399860883-63ea1b251390?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc0MTc1NzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green leafed plants and rocks during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1499543412663-540566cb2442?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc1MDM4Mzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="people on beach during daytime">
   
-  <em>green leafed plants and rocks during daytime</em>
+  <em>people on beach during daytime</em>
   
-  <em>Joshua Tree Sunset</em>
+  <em>Sunbathing by a lake</em>
   
-  Photo by [Wesley Gibbs](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Harry Knight](http://instagram.com/itsharryspeaking) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
