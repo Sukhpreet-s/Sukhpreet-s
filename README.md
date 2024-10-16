@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1521379124646-d4fa8375b386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg5NzI3NTB8&ixlib=rb-4.0.3&q=80&w=1080" alt="gray concrete arch under sunny sky">
+  <img width="720" src="https://images.unsplash.com/photo-1463467315416-89b8fba72fd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkwNTkxNTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="white jellyfish in body of water">
   
-  <em>gray concrete arch under sunny sky</em>
+  <em>white jellyfish in body of water</em>
   
-  <em>null</em>
+  <em>Jellyfish underwater view</em>
   
-  Photo by [Kaizer Bienes](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Jeremy Bishop](https://www.jeremybishopphotography.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
