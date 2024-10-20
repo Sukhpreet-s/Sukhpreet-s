@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1530563937443-1f02f662fa5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkzNzE1NzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="sun rays in forest">
+  <img width="720" src="https://images.unsplash.com/photo-1542243337-8a2c60753f6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjk0MDQ3MTF8&ixlib=rb-4.0.3&q=80&w=1080" alt="rock formation near water">
   
-  <em>sun rays in forest</em>
+  <em>rock formation near water</em>
   
-  <em>We headed back to Mt. Hood National Forest early this morning to hike Bald Mountain. It was really cool watching the fog and clouds roll through the deep forest. We also saw deer! Good vibes.</em>
+  <em>Sunrise at Cathedral Cove</em>
   
-  Photo by [Dale Nibbe](http://www.quickstudy.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [ThatPhotoGuyNL](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
