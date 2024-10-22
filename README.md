@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1531985268021-6169793a4f66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjk0OTEyMDF8&ixlib=rb-4.0.3&q=80&w=1080" alt="woman taking selfie outdoors">
+  <img width="720" src="https://images.unsplash.com/photo-1419833173245-f59e1b93f9ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjk1Nzc2NjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="cloudy sky during daytime">
   
-  <em>woman taking selfie outdoors</em>
+  <em>cloudy sky during daytime</em>
   
-  <em>The mother of my children, the most beautiful person I know !</em>
+  <em>For more travel inspiration, check out @samschooler on Instagram. </em>
   
-  Photo by [Xavier Mouton Photographie](http://mxcaptures.myportfolio.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Sam Schooler](https://samschooler.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
