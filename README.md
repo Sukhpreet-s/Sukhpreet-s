@@ -3,14 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1533737181121-ae845505976e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzAwMDk0ODF8&ixlib=rb-4.0.3&q=80&w=1080" alt="woman in gray spaghetti strap top">
+  <img width="720" src="https://images.unsplash.com/photo-1705791835384-70443272f51b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzAwOTYwMTJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="a construction site next to a body of water">
   
-  <em>woman in gray spaghetti strap top</em>
+  <em>a construction site next to a body of water</em>
   
-  <em>https://www.instagram.com/szvmanski/
-https://www.flickr.com/photos/22788073@N04/</em>
+  <em>Photo of the old city canal Nieuwe herngracht in Amsterdam donwetown with construction workers, renovating the brick okd canal quay. It is a sunny day in town with a lot of sunshine and shades in the canal water and textures of light. Street photography of urban city canals in Amsterdam downtown, The Netherlands by Fons Heijnsbroek, 2024; Dutch photographer // Foto van Amsterdam Nieuwe Herengracht op de hoogte van het Wertheimpark in de Plantage met kade-werkzaamheden in zonlicht; gratis download, Nederland.</em>
   
-  Photo by [pawel szvmanski](https://www.flickr.com/photos/22788073@N04/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Fons Heijnsbroek](https://linktr.ee/snofen51) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
