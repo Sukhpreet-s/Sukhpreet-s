@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1533644657971-4c2775a95a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzAzNTUxNTJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial view of bridge near mountain">
+  <img width="720" src="https://images.unsplash.com/uploads/1413459503959025bf874/2b444765?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzA0NDE1ODl8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water under blue sky">
   
-  <em>aerial view of bridge near mountain</em>
+  <em>body of water under blue sky</em>
   
-  <em>Rhigos Sunset</em>
+  <em>Mountains by the lake</em>
   
-  Photo by [Richard Griffiths](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Georgia Dixon](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
