@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1518964834239-1e264a2f6b8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzEzMDU1NjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="green structural photo">
+  <img width="720" src="https://images.unsplash.com/photo-1539883453024-cf91118766df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzEzOTE5NDN8&ixlib=rb-4.0.3&q=80&w=1080" alt="man standing beside yellow bus">
   
-  <em>green structural photo</em>
+  <em>man standing beside yellow bus</em>
   
-  <em>concrete contrast</em>
+  <em>Frozen in time..</em>
   
-  Photo by [Nick van den Berg](https://www.behance.net/nngvandenberg) on [unsplash.com](https://unsplash.com/)
+  Photo by [Gleb Lukomets](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
