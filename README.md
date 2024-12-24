@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1528916768579-e42d96aacffc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ5MzQzOTJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="boat in body of water near palm tree">
+  <img width="720" src="https://images.unsplash.com/photo-1518399860883-63ea1b251390?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzUwMjA3NjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="green leafed plants and rocks during daytime">
   
-  <em>boat in body of water near palm tree</em>
+  <em>green leafed plants and rocks during daytime</em>
   
-  <em>Spot the squirrel</em>
+  <em>Joshua Tree Sunset</em>
   
-  Photo by [Viviana Rishe](https://www.vivianarishe.com/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Wesley Gibbs](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
