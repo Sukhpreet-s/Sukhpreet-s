@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1537481832775-cda368c396c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU1MzkxOTB8&ixlib=rb-4.0.3&q=80&w=1080" alt="a blurry picture of a tree with a blue sky in the background">
+  <img width="720" src="https://images.unsplash.com/photo-1516922749815-dbc6cff125fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU2MjU1NTV8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown cottage near body of water">
   
-  <em>a blurry picture of a tree with a blue sky in the background</em>
+  <em>brown cottage near body of water</em>
   
-  <em>focus is a bourgeois concept</em>
+  <em>Caught in nature</em>
   
-  Photo by [s2 art](https://www.flickr.com/photos/s2art/albums) on [unsplash.com](https://unsplash.com/)
+  Photo by [Katja Nemec](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
