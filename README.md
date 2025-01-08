@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1477204505220-510cd0d57764?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzYyMzAzODR8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photo of cliff during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1519121664077-7a7c5beef683?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzYzMTY3Nzd8&ixlib=rb-4.0.3&q=80&w=1080" alt="person sitting on concrete bench while watching people playing basketball during daytime">
   
-  <em>aerial photo of cliff during daytime</em>
+  <em>person sitting on concrete bench while watching people playing basketball during daytime</em>
   
-  <em>Rocky shoreline view</em>
+  <em>I got Next</em>
   
-  Photo by [Samantha Lynch](https://scribblesbysamco.wordpress.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Wyron A](https://www.instagram.com/jwyron/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
