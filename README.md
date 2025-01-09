@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1519121664077-7a7c5beef683?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzYzMTY3Nzd8&ixlib=rb-4.0.3&q=80&w=1080" alt="person sitting on concrete bench while watching people playing basketball during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1509389928833-fe62aef36deb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzY0MDMxNDZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="solar panel boards on brown ground">
   
-  <em>person sitting on concrete bench while watching people playing basketball during daytime</em>
+  <em>solar panel boards on brown ground</em>
   
-  <em>I got Next</em>
+  <em>Santee Cooper</em>
   
-  Photo by [Wyron A](https://www.instagram.com/jwyron/) on [unsplash.com](https://unsplash.com/)
+  Photo by [American Public Power Association](http://publicpower.org) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
