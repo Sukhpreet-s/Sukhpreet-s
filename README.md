@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1536410550425-18c8ee14bce3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzcwOTQzMzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1509389928833-fe62aef36deb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzcxODA2NjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="solar panel boards on brown ground">
   
-  <em>green grass field during daytime</em>
+  <em>solar panel boards on brown ground</em>
   
-  <em>null</em>
+  <em>Santee Cooper</em>
   
-  Photo by [Fabian Bächli](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [American Public Power Association](http://publicpower.org) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
