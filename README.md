@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1563913640670-bbc6874d15b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzgyMTc1Mjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial view of forest">
+  <img width="720" src="https://images.unsplash.com/photo-1500534623283-312aade485b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzgzMDM5NDl8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhoutte of mountains during sunset">
   
-  <em>aerial view of forest</em>
+  <em>silhoutte of mountains during sunset</em>
   
-  <em>Alpine meadows of Switzerland</em>
+  <em>Sunset at Clingmans Dome</em>
   
-  Photo by [M. R.](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Ivana Cajina](https://www.instagram.com/von.co/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
