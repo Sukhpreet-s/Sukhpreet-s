@@ -3,15 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1534685785745-60a2cea0ec34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg1NjMxNzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="person standing on top of mountain">
+  <img width="720" src="https://images.unsplash.com/photo-1569853830680-085552052bf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg2NDk1NjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="the sun is setting in the sky over the trees">
   
-  <em>person standing on top of mountain</em>
+  <em>the sun is setting in the sky over the trees</em>
   
-  <em>Have you ever done something that you always dreamed of doing?
-
-Stay tuned friends! I have something to show you! 🎥</em>
+  <em>null</em>
   
-  Photo by [Alessandro Erbetta](https://www.instagram.com/alessandro.erbetta/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Irina Iriser](https://linktr.ee/Iriser) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
