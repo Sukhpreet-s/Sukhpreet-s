@@ -3,14 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1617717540480-11274a9e28c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzk5NDU1NjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="green tractor on brown field under blue sky during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1543314444-26a64fa5efe1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDAwMzE5NjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green field under blue sky">
   
-  <em>green tractor on brown field under blue sky during daytime</em>
+  <em>green field under blue sky</em>
   
-  <em>
-tractor plowing the countryside preparing the land for sowing</em>
+  <em>There was a time once when I was crazy about stitching panoramas. So I did shoot this field, resulting in 240 megapixels image. And my favourite mountain in the distance.</em>
   
-  Photo by [roberto bernardi](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Lukasz Szmigiel](https://photo.szmigiel.design/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
