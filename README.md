@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1543314444-26a64fa5efe1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDAwMzE5NjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green field under blue sky">
+  <img width="720" src="https://images.unsplash.com/photo-1588417044404-ce4b91a74c7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDAxMTgzNTV8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field under cloudy sky during daytime">
   
-  <em>green field under blue sky</em>
+  <em>green grass field under cloudy sky during daytime</em>
   
-  <em>There was a time once when I was crazy about stitching panoramas. So I did shoot this field, resulting in 240 megapixels image. And my favourite mountain in the distance.</em>
+  <em>Looking out over Strangford Lough toward the Mourne Mountains to the south on a late summer's afternoon (taken 2015).</em>
   
-  Photo by [Lukasz Szmigiel](https://photo.szmigiel.design/) on [unsplash.com](https://unsplash.com/)
+  Photo by [K. Mitch Hodge](https://www.facebook.com/K.MitchHodgePhotos/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
