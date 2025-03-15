@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1620123357390-86c161acbb7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDE5MzI3ODJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown and white cow on green grass field during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1534277177909-face0e85155a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDIwMTkxMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="green fields at daytime">
   
-  <em>brown and white cow on green grass field during daytime</em>
+  <em>green fields at daytime</em>
   
-  <em>Cows at the field</em>
+  <em>Took this photo of farms, crops, and fields, on a sunny day while biking. If you want to use this photo, please consider crediting https://www.goodfreephotos.com , not required but always appreciated.</em>
   
-  Photo by [Alexandr Podvalny](https://visionpic.net/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Good Free Photos](https://www.goodfreephotos.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
