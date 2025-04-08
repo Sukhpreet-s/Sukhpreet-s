@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1555980483-93e7b3529e1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQwMDY0NDd8&ixlib=rb-4.0.3&q=80&w=1080" alt="person riding black buffalo on green fields">
+  <img width="720" src="https://images.unsplash.com/photo-1523486967874-06655b79331e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQwOTI4NDJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photography of field">
   
-  <em>person riding black buffalo on green fields</em>
+  <em>aerial photography of field</em>
   
-  <em>null</em>
+  <em>Rolling hills</em>
   
-  Photo by [Kiril Dobrev](https://www.instagram.com/kiril_dobrev/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Ivan Bandura](https://ivan.graphics) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
