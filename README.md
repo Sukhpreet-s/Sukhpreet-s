@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1530875135958-460d93b7cdb8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDUwNDMxNDF8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown horse near body of water">
+  <img width="720" src="https://images.unsplash.com/photo-1625230940835-e1ad81e94b8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDUxMjk1NTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown and white cow on green grass field during daytime">
   
-  <em>brown horse near body of water</em>
+  <em>brown and white cow on green grass field during daytime</em>
   
-  <em>Equines have been present in Britain since 700,000 BC, and fossil remains have been found in the area of Exmoor dating back to about 50,000 BC. Some claim that the breed has been purebred since the ice age; others claim this is unsupported by modern DNA research. There is however a close morphological resemblance to the primitive wild horse. Archeological investigations have shown that horses were used for transport in the southwest of England as early as 400 BC, and Roman carvings show ponies phenotypically similar to the Exmoor pony.</em>
+  <em>null</em>
   
-  Photo by [Zoltan Tasi](https://foundation.app/@zoltan_tasi) on [unsplash.com](https://unsplash.com/)
+  Photo by [bennoptic](https://bennoptic.picfair.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
