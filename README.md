@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1499260126922-fbb24624a4e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDczNzYwODB8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial view of farm">
+  <img width="720" src="https://images.unsplash.com/photo-1475082622110-f0e90ff503ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc0NjIzNzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="bird's eye view photography of green field">
   
-  <em>aerial view of farm</em>
+  <em>bird's eye view photography of green field</em>
   
   <em>null</em>
   
-  Photo by [Andreas Gücklhorn](https://guecklhorn.com/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Sveta Fedarava](https://www.flickr.com/photos/fedarava/albums) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
