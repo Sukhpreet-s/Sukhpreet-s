@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1634016345888-9249da8ce9f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc5ODA4NjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="an aerial view of a village and river">
+  <img width="720" src="https://images.unsplash.com/photo-1532929900024-6413d2ed39c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDgwNjcxNjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="yellow farm tractor">
   
-  <em>an aerial view of a village and river</em>
+  <em>yellow farm tractor</em>
   
-  <em>云南省迪庆州维西县叶枝镇梯田航拍</em>
+  <em>Cultivating Paddy Field</em>
   
-  Photo by [ダモ リ](https://darmau.co/en/albums/featured) on [unsplash.com](https://unsplash.com/)
+  Photo by [Nandhu Kumar](https://www.pexels.com/@nandhukumar) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
