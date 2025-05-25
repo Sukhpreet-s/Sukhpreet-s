@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1532929900024-6413d2ed39c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDgwNjcxNjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="yellow farm tractor">
+  <img width="720" src="https://images.unsplash.com/photo-1522242831446-edbee52048a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDgxNTM1NzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown rooster standing on grass">
   
-  <em>yellow farm tractor</em>
+  <em>brown rooster standing on grass</em>
   
-  <em>Cultivating Paddy Field</em>
+  <em>On The Farm Vol. 1</em>
   
-  Photo by [Nandhu Kumar](https://www.pexels.com/@nandhukumar) on [unsplash.com](https://unsplash.com/)
+  Photo by [Bri Tucker](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
