@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1525734826689-2c53dedc44d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDg2NzE5ODZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass">
+  <img width="720" src="https://images.unsplash.com/photo-1594760639943-d2368851962c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDg3NTg0MzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field near lake during daytime">
   
-  <em>green grass</em>
+  <em>green grass field near lake during daytime</em>
   
-  <em>Divide</em>
+  <em>View across Tweeddale, from Manor Sware, Peebles, Scotland.</em>
   
-  Photo by [Ivan Bandura](https://ivan.graphics) on [unsplash.com](https://unsplash.com/)
+  Photo by [Stephen Talas](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
