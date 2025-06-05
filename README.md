@@ -3,13 +3,14 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/uploads/141247613151541c06062/c15fb37d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkwMTc2OTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="corn field under clear sky">
+  <img width="720" src="https://images.unsplash.com/photo-1617717540480-11274a9e28c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkxMDQxMjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="green tractor on brown field under blue sky during daytime">
   
-  <em>corn field under clear sky</em>
+  <em>green tractor on brown field under blue sky during daytime</em>
   
-  <em>Field in sunrise</em>
+  <em>
+tractor plowing the countryside preparing the land for sowing</em>
   
-  Photo by [Jake Gard](http://Jaktwitter) on [unsplash.com](https://unsplash.com/)
+  Photo by [roberto bernardi](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
