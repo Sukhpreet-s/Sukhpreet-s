@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1470422048986-1f71bdffd485?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA4MzIxNjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field under sunrise">
+  <img width="720" src="https://images.unsplash.com/photo-1534368786749-b63e05c90863?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA5MTg1MzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="a couple of sheep standing on top of a grass covered field">
   
-  <em>green grass field under sunrise</em>
+  <em>a couple of sheep standing on top of a grass covered field</em>
   
-  <em>Bourdeilles pastures sunset</em>
+  <em>Came across these cute sheeps, that were curios and wanted to know what I were doing.</em>
   
-  Photo by [Annie Spratt](https://www.anniespratt.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Jørgen Håland](http://jhaland.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
