@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1638215636518-01740c8a9d1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTE0MzY5NTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="a herd of cattle grazing on a lush green hillside">
+  <img width="720" src="https://images.unsplash.com/photo-1497448134719-754ac7fd09eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTE1MjMzNjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="shallow focus photography of wheat field">
   
-  <em>a herd of cattle grazing on a lush green hillside</em>
+  <em>shallow focus photography of wheat field</em>
   
-  <em>Cows graze in a field at sunset</em>
+  <em>Golden barley</em>
   
-  Photo by [Veronica White](https://www.covestocliffs.com/portfolio) on [unsplash.com](https://unsplash.com/)
+  Photo by [Isak Engström](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
