@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1709869432673-ffda479f0eb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM5NDI2MTJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a brown horse standing next to a wooden fence">
+  <img width="720" src="https://images.unsplash.com/photo-1483468806515-cb407d9c8537?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQwMjkxMzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="white and green fields under blue sky photography during daytime">
   
-  <em>a brown horse standing next to a wooden fence</em>
+  <em>white and green fields under blue sky photography during daytime</em>
   
-  <em>null</em>
+  <em>We rented a cabin in the mountains of Virginia to escape the craziness between Christmas and New Years Eve in the big city. It was hard to capture how secluded we were from the ground, and just how far away from the hustle and bustle we were. We sent the drone up to capture the landscape, the cabin, and the surrounding area.</em>
   
-  Photo by [Ashley Endemano](http://www.wildcreativeco.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Raz Bradley](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
