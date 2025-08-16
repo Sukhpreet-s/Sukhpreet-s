@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1623195373570-f1bf07b6bd79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUyMzg1Njl8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown wooden wheel on brown wooden log">
+  <img width="720" src="https://images.unsplash.com/photo-1483468806515-cb407d9c8537?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUzMjQ4NDV8&ixlib=rb-4.1.0&q=80&w=1080" alt="white and green fields under blue sky photography during daytime">
   
-  <em>brown wooden wheel on brown wooden log</em>
+  <em>white and green fields under blue sky photography during daytime</em>
   
-  <em>Rusty old tractor metal wheels displayed at the entrance of a farm.</em>
+  <em>We rented a cabin in the mountains of Virginia to escape the craziness between Christmas and New Years Eve in the big city. It was hard to capture how secluded we were from the ground, and just how far away from the hustle and bustle we were. We sent the drone up to capture the landscape, the cabin, and the surrounding area.</em>
   
-  Photo by [Gilberto Olimpio](https://vsco.co/golimpio) on [unsplash.com](https://unsplash.com/)
+  Photo by [Raz Bradley](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
