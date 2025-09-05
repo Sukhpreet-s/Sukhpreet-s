@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1753303051826-fdab1d406a6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY5NjY0ODZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Sunset shines over a rural landscape.">
+  <img width="720" src="https://images.unsplash.com/photo-1689539445343-f640f95de1a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTcwNTI4OTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="a field with hay bales in the middle of it">
   
-  <em>Sunset shines over a rural landscape.</em>
+  <em>a field with hay bales in the middle of it</em>
   
   <em>null</em>
   
-  Photo by [Eirik Skarstein](https://www.eirikskarstein.com/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Valentin Balan](https://www.dreamstime.com/balanvalentin_info) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
