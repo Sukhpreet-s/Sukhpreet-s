@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1726911929624-fb87bea7888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTczMTIxNDB8&ixlib=rb-4.1.0&q=80&w=1080" alt="A field of grass with trees in the background">
+  <img width="720" src="https://images.unsplash.com/photo-1664578756120-11001156b15f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTczOTg1MzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a statue of a deer on a truck">
   
-  <em>A field of grass with trees in the background</em>
+  <em>a statue of a deer on a truck</em>
   
   <em>null</em>
   
-  Photo by [Annie Spratt](https://www.anniespratt.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Jon Tyson](http://jontyson.org) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
