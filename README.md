@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1614620541427-afedc2d05b9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTgwODk2ODZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="yellow flowers under blue sky during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1638215640568-22115dc1bb5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTgxNzYwNzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a lush green hillside with a valley in the distance">
   
-  <em>yellow flowers under blue sky during daytime</em>
+  <em>a lush green hillside with a valley in the distance</em>
   
-  <em>Wonderful Wildflowers up the West Coast of South Africa </em>
+  <em>The sun lights a patch of farmland in Wales</em>
   
-  Photo by [Phillip Wentworth](http://www.gamutplanet.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Veronica White](https://www.covestocliffs.com/portfolio) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
