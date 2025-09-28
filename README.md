@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1615855327579-a2b9d654f682?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg5NTM1Mzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="white and brown house on green grass field during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1709869432673-ffda479f0eb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkwMzk5NzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a brown horse standing next to a wooden fence">
   
-  <em>white and brown house on green grass field during daytime</em>
+  <em>a brown horse standing next to a wooden fence</em>
   
-  <em>Amish schoolhouse and pumpkin patch near New Wilmington, PA.</em>
+  <em>null</em>
   
-  Photo by [Brad Weaver](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Ashley Endemano](http://www.wildcreativeco.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
