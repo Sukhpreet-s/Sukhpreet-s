@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1753303051826-fdab1d406a6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk0NzIwNzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Sunset shines over a rural landscape.">
+  <img width="720" src="https://images.unsplash.com/photo-1699481280200-1023cb4f36e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk1NTgzNDZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a dirt road in the middle of a field">
   
-  <em>Sunset shines over a rural landscape.</em>
+  <em>a dirt road in the middle of a field</em>
   
   <em>null</em>
   
-  Photo by [Eirik Skarstein](https://www.eirikskarstein.com/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Matt Bct](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
