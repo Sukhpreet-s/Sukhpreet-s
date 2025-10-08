@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1534277177909-face0e85155a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk4MTc2OTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="green fields at daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1476908965434-f988d59d7abd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk5MDQxMTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photo of field under cloudy sky during daytime">
   
-  <em>green fields at daytime</em>
+  <em>landscape photo of field under cloudy sky during daytime</em>
   
-  <em>Took this photo of farms, crops, and fields, on a sunny day while biking. If you want to use this photo, please consider crediting https://www.goodfreephotos.com , not required but always appreciated.</em>
+  <em>Follow my Instagram @karsten.wuerth</em>
   
-  Photo by [Good Free Photos](https://www.goodfreephotos.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Karsten Würth](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
