@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1687839113303-123650f3f754?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk5OTA1Mzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="a large field of green grass under a cloudy sky">
+  <img width="720" src="https://images.unsplash.com/photo-1618201795259-6af67369023f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjAwNzY5MzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="white sheep standing on green grass during daytime">
   
-  <em>a large field of green grass under a cloudy sky</em>
+  <em>white sheep standing on green grass during daytime</em>
   
   <em>null</em>
   
-  Photo by [Hastanto Tok](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Eka P. Amdela](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
