@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1758030711100-c77c13a3627a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjAyNDk1OTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="Cows grazing in a green, grassy field at dusk.">
+  <img width="720" src="https://images.unsplash.com/photo-1744983500694-67eb0aeac589?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjAzMzYxODh8&ixlib=rb-4.1.0&q=80&w=1080" alt="A farmer plows a field with a small tractor.">
   
-  <em>Cows grazing in a green, grassy field at dusk.</em>
+  <em>A farmer plows a field with a small tractor.</em>
   
-  <em>null</em>
+  <em>A farmer plowing a field, accompanied by birds flying beside him.</em>
   
-  Photo by [Chris Lynch](https://www.youtube.com/@chrisslynch) on [unsplash.com](https://unsplash.com/)
+  Photo by [Anton Riyadi](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
