@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1702373749921-3ed85367c2ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjA1MDg5Mzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="a grassy field with a blue sky in the background">
+  <img width="720" src="https://images.unsplash.com/photo-1638261078484-0c3bf49152c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjA1OTUzNDR8&ixlib=rb-4.1.0&q=80&w=1080" alt="a group of black and white cows in a pen">
   
-  <em>a grassy field with a blue sky in the background</em>
+  <em>a group of black and white cows in a pen</em>
   
-  <em>null</em>
+  <em>Cow in a barn</em>
   
-  Photo by [Mehul Kanzariya](https://aculix.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Veronica White](https://www.covestocliffs.com/portfolio) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
