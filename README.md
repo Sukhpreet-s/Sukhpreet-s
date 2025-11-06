@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1630574514371-13c5086c7169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjIzMjMzNTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="green plants on brown soil">
+  <img width="720" src="https://images.unsplash.com/photo-1724087404688-16140cd6679b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI0MDk3NTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="A group of trees in the middle of a field">
   
-  <em>green plants on brown soil</em>
+  <em>A group of trees in the middle of a field</em>
   
-  <em>Strawberry Farm, Lusaka, Zambia.</em>
+  <em>Farm fields in Devon</em>
   
-  Photo by [Vije Vijendranath](https://photography.vijev.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Veronica White](https://www.covestocliffs.com/portfolio) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
