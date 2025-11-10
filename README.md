@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1461175827210-5ceac3e39dd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI2Njg4NDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="bird's eye view of buildings and grass">
+  <img width="720" src="https://images.unsplash.com/photo-1638215640640-c51055587778?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI3NTU0Mjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="a herd of cattle grazing on a lush green field">
   
-  <em>bird's eye view of buildings and grass</em>
+  <em>a herd of cattle grazing on a lush green field</em>
   
-  <em>null</em>
+  <em>Cows graze in a field on a sunny day</em>
   
-  Photo by [Dan Roizer](http://www.roizer.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Veronica White](https://www.covestocliffs.com/portfolio) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
