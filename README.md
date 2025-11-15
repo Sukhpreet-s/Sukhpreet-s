@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1743363632942-74e873b5f3b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMxMDA5NjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="Cows graze peacefully in a field by the ocean.">
+  <img width="720" src="https://images.unsplash.com/photo-1534277177909-face0e85155a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMxODcyNDR8&ixlib=rb-4.1.0&q=80&w=1080" alt="green fields at daytime">
   
-  <em>Cows graze peacefully in a field by the ocean.</em>
+  <em>green fields at daytime</em>
   
-  <em>Cows grazing in a field near the coast in south Devon</em>
+  <em>Took this photo of farms, crops, and fields, on a sunny day while biking. If you want to use this photo, please consider crediting https://www.goodfreephotos.com , not required but always appreciated.</em>
   
-  Photo by [Veronica White](https://www.covestocliffs.com/portfolio) on [unsplash.com](https://unsplash.com/)
+  Photo by [Good Free Photos](https://www.goodfreephotos.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
