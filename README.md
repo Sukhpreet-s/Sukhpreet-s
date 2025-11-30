@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1568919947647-54a5897f5fc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzOTY4OTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="farm during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1755851599294-2946024afc2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ0ODMzMjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="Round hay bales dot a harvested golden field under clouds.">
   
-  <em>farm during daytime</em>
+  <em>Round hay bales dot a harvested golden field under clouds.</em>
   
-  <em>null</em>
+  <em>Straw bales</em>
   
-  Photo by [Alora Griffiths](https://wildandwonderfulstudio.com/index.html) on [unsplash.com](https://unsplash.com/)
+  Photo by [Rasmus Andersen](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
