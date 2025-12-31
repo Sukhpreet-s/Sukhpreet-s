@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1759967399989-80d5d182a3e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjcwNzU0NTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="Red barn with silos in a green field">
+  <img width="720" src="https://images.unsplash.com/photo-1638215636518-01740c8a9d1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjcxNjE4Njl8&ixlib=rb-4.1.0&q=80&w=1080" alt="a herd of cattle grazing on a lush green hillside">
   
-  <em>Red barn with silos in a green field</em>
+  <em>a herd of cattle grazing on a lush green hillside</em>
   
-  <em>null</em>
+  <em>Cows graze in a field at sunset</em>
   
-  Photo by [Roger Starnes Sr](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Veronica White](https://www.covestocliffs.com/portfolio) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
