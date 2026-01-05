@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1565628382615-adbf8a21c6d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc1MDc0MDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown hays">
+  <img width="720" src="https://images.unsplash.com/photo-1742071853644-7b4023507a92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc1OTQxODJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Rolling green hills and fields under cloudy skies.">
   
-  <em>brown hays</em>
+  <em>Rolling green hills and fields under cloudy skies.</em>
   
-  <em>null</em>
+  <em>Fields in the sun</em>
   
-  Photo by [Oxana Lyashenko](http://www.sanateddy.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Veronica White](https://www.covestocliffs.com/portfolio) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
