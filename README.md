@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1743363632942-74e873b5f3b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc3NjY3MTF8&ixlib=rb-4.1.0&q=80&w=1080" alt="Cows graze peacefully in a field by the ocean.">
+  <img width="720" src="https://images.unsplash.com/photo-1523173983356-389e3a285a18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc4NTMxMDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field hill">
   
-  <em>Cows graze peacefully in a field by the ocean.</em>
+  <em>green grass field hill</em>
   
-  <em>Cows grazing in a field near the coast in south Devon</em>
+  <em>The earth</em>
   
-  Photo by [Veronica White](https://www.covestocliffs.com/portfolio) on [unsplash.com](https://unsplash.com/)
+  Photo by [Amirhossein Eslami](http://dotam.ir) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
