@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1470423725703-b136e2a8254c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjgwMjU3NTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field with house during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1706299880427-5858df77e1b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjgxMTIyMTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a herd of cattle standing in front of a red barn">
   
-  <em>green grass field with house during daytime</em>
+  <em>a herd of cattle standing in front of a red barn</em>
   
-  <em>null</em>
+  <em>A typical scene where we are staying at a farm in rural Alberta, Canada.</em>
   
-  Photo by [Arno Smit](https://www.instagram.com/_entreprenerd) on [unsplash.com](https://unsplash.com/)
+  Photo by [Jillian Amatt - Artistic Voyages](https://www.artisticvoyages.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
