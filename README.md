@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1676749979558-b2ea9110d41b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njk1ODEyMzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="an old barn and silo in a field">
+  <img width="720" src="https://images.unsplash.com/photo-1662307414628-5c791e17fbee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njk2NjgzNjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a river flowing through a city">
   
-  <em>an old barn and silo in a field</em>
+  <em>a river flowing through a city</em>
   
   <em>null</em>
   
-  Photo by [Heather Gill](https://www.slateandstorystudio.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Michael Myers](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
