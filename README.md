@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1668036268112-d95cf075a0de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAxODY5ODh8&ixlib=rb-4.1.0&q=80&w=1080" alt="a bench in a park">
+  <img width="720" src="https://images.unsplash.com/photo-1657666314983-597a7e4e9fd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAyNzM3ODd8&ixlib=rb-4.1.0&q=80&w=1080" alt="cows in a barn">
   
-  <em>a bench in a park</em>
+  <em>cows in a barn</em>
   
   <em>null</em>
   
-  Photo by [Laura Roberts](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Summer Smyth](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
