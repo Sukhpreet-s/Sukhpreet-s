@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1638215638292-2768e91e9805?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA0NDU3MDV8&ixlib=rb-4.1.0&q=80&w=1080" alt="a couple of sheep standing on top of a lush green hillside">
+  <img width="720" src="https://images.unsplash.com/photo-1571091374658-6d880f0eab29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA1MzI1ODJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="vehicle on desert">
   
-  <em>a couple of sheep standing on top of a lush green hillside</em>
+  <em>vehicle on desert</em>
   
-  <em>Sheep graze near the edge of the cliffs in coastal Devon</em>
+  <em>Harvest</em>
   
-  Photo by [Veronica White](https://www.covestocliffs.com/portfolio) on [unsplash.com](https://unsplash.com/)
+  Photo by [Ivan Bandura](https://ivan.graphics) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
