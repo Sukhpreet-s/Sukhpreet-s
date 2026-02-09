@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1571091374658-6d880f0eab29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA1MzI1ODJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="vehicle on desert">
+  <img width="720" src="https://images.unsplash.com/photo-1659668093836-17337bf8e07b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA2MTk5Njh8&ixlib=rb-4.1.0&q=80&w=1080" alt="a group of chickens in a grassy field">
   
-  <em>vehicle on desert</em>
+  <em>a group of chickens in a grassy field</em>
   
-  <em>Harvest</em>
+  <em>Chickens in the pasture </em>
   
-  Photo by [Ivan Bandura](https://ivan.graphics) on [unsplash.com](https://unsplash.com/)
+  Photo by [Laura Ohlman](http://www.ohlmanphotography.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
