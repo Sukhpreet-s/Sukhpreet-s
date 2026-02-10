@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1659668093836-17337bf8e07b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA2MTk5Njh8&ixlib=rb-4.1.0&q=80&w=1080" alt="a group of chickens in a grassy field">
+  <img width="720" src="https://images.unsplash.com/photo-1638261583632-037d99acd6d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA3MDYzNzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="a sheep standing in a field next to a wooden fence">
   
-  <em>a group of chickens in a grassy field</em>
+  <em>a sheep standing in a field next to a wooden fence</em>
   
-  <em>Chickens in the pasture </em>
+  <em>A sheep walks in front of a fence</em>
   
-  Photo by [Laura Ohlman](http://www.ohlmanphotography.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Veronica White](https://www.covestocliffs.com/portfolio) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
