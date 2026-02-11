@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1638261583632-037d99acd6d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA3MDYzNzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="a sheep standing in a field next to a wooden fence">
+  <img width="720" src="https://images.unsplash.com/photo-1622122108777-32f2224ba80e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA3OTI1ODB8&ixlib=rb-4.1.0&q=80&w=1080" alt="woman in pink dress standing beside man in white dress shirt">
   
-  <em>a sheep standing in a field next to a wooden fence</em>
+  <em>woman in pink dress standing beside man in white dress shirt</em>
   
-  <em>A sheep walks in front of a fence</em>
+  <em>Agronomists inspect a ripening crop on a city farm</em>
   
-  Photo by [Veronica White](https://www.covestocliffs.com/portfolio) on [unsplash.com](https://unsplash.com/)
+  Photo by [Petr Magera](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
