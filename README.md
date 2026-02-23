@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1571091374658-6d880f0eab29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzE3NDIwMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="vehicle on desert">
+  <img width="720" src="https://images.unsplash.com/photo-1696267168585-66e714d82a48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzE4Mjk1MTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a barn in a field with trees in the background">
   
-  <em>vehicle on desert</em>
+  <em>a barn in a field with trees in the background</em>
   
-  <em>Harvest</em>
+  <em>null</em>
   
-  Photo by [Ivan Bandura](https://ivan.graphics) on [unsplash.com](https://unsplash.com/)
+  Photo by [Richard Burlton](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
