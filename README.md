@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1706299880427-5858df77e1b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzIxNzQyODF8&ixlib=rb-4.1.0&q=80&w=1080" alt="a herd of cattle standing in front of a red barn">
+  <img width="720" src="https://images.unsplash.com/photo-1534277177909-face0e85155a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzIyNTk3ODZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="green fields at daytime">
   
-  <em>a herd of cattle standing in front of a red barn</em>
+  <em>green fields at daytime</em>
   
-  <em>A typical scene where we are staying at a farm in rural Alberta, Canada.</em>
+  <em>Took this photo of farms, crops, and fields, on a sunny day while biking. If you want to use this photo, please consider crediting https://www.goodfreephotos.com , not required but always appreciated.</em>
   
-  Photo by [Jillian Amatt - Artistic Voyages](https://www.artisticvoyages.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Good Free Photos](https://www.goodfreephotos.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
