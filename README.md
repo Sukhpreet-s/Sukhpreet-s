@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1488354028423-039ac1e23357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzI2MDU5OTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial view of plain and road">
+  <img width="720" src="https://images.unsplash.com/photo-1638215640795-e5f064d3e0c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzI2OTI1NTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="a herd of sheep standing on top of a lush green hillside">
   
-  <em>aerial view of plain and road</em>
+  <em>a herd of sheep standing on top of a lush green hillside</em>
   
-  <em>Crossing</em>
+  <em>Sheep line up along a ridge</em>
   
-  Photo by [Ricardo Gomez Angel](https://www.rgaleria.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Veronica White](https://www.covestocliffs.com/portfolio) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
