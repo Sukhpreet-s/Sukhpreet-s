@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1708566638356-9a192f63874f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzI3Nzg4Mjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="a field with a mountain in the background">
+  <img width="720" src="https://images.unsplash.com/photo-1624284675996-d15f57f87959?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzI4NjQ3MDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="a windmill in a field with mountains in the background">
   
-  <em>a field with a mountain in the background</em>
+  <em>a windmill in a field with mountains in the background</em>
   
-  <em>null</em>
+  <em>Farm windmill in the Owens Valley, California</em>
   
-  Photo by [sanggeun yu](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Linda Pomerantz Zhang](https://www.flickr.com/photos/lindazhang250/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
