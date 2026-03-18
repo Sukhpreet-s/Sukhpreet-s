@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1614036465491-960abb781fd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzM3MzAyMDR8&ixlib=rb-4.1.0&q=80&w=1080" alt="red and white house near trees during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1638261583638-9644c098e946?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzM4MTY1NDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="a herd of sheep standing on top of a lush green field">
   
-  <em>red and white house near trees during daytime</em>
+  <em>a herd of sheep standing on top of a lush green field</em>
   
-  <em>null</em>
+  <em>A sheepdog chases a flock of sheep</em>
   
-  Photo by [Sam Battaglieri](http://itsmesamb.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Veronica White](https://www.covestocliffs.com/portfolio) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
