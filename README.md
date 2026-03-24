@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1596988013069-8742e922b785?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQyNDg5ODF8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field near green trees under white clouds and blue sky during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1724087404700-92eabcce8764?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQzMzUwNDd8&ixlib=rb-4.1.0&q=80&w=1080" alt="A grassy field with a few trees in the distance">
   
-  <em>green grass field near green trees under white clouds and blue sky during daytime</em>
+  <em>A grassy field with a few trees in the distance</em>
   
-  <em>Fields and forests with a cloudy sky</em>
+  <em>Farm fields in Devon</em>
   
-  Photo by [Cédric VT](https://www.instagram.com/cedric_photography) on [unsplash.com](https://unsplash.com/)
+  Photo by [Veronica White](https://www.covestocliffs.com/portfolio) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
