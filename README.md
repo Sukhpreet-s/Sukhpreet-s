@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1505710043585-144563471bda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUwMjcxOTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="green field under golden sky">
+  <img width="720" src="https://images.unsplash.com/photo-1614366019077-74906d121985?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUxMTMxMDl8&ixlib=rb-4.1.0&q=80&w=1080" alt="white and black cow on green grass field during daytime">
   
-  <em>green field under golden sky</em>
+  <em>white and black cow on green grass field during daytime</em>
   
-  <em>Sunday evenings</em>
+  <em>null</em>
   
-  Photo by [Casey Horner](http://paypal.me./CaseyHorner) on [unsplash.com](https://unsplash.com/)
+  Photo by [Patty Brito](http://www.pattybritophotography.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
