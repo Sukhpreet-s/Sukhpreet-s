@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1479968071622-d0a39f8551be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUzNzE5Njl8&ixlib=rb-4.1.0&q=80&w=1080" alt="teal and black wooden house beside teal and black house">
+  <img width="720" src="https://images.unsplash.com/photo-1543314444-26a64fa5efe1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU0NTk3Mjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="green field under blue sky">
   
-  <em>teal and black wooden house beside teal and black house</em>
+  <em>green field under blue sky</em>
   
-  <em>null</em>
+  <em>There was a time once when I was crazy about stitching panoramas. So I did shoot this field, resulting in 240 megapixels image. And my favourite mountain in the distance.</em>
   
-  Photo by [Nathan Anderson](https://kunack.us/follow?source=unsplash) on [unsplash.com](https://unsplash.com/)
+  Photo by [Lukasz Szmigiel](https://photo.szmigiel.design/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
