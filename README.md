@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1638261078489-194bad7420b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU3MTg1MTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="a sheep and two lambs grazing in a field">
+  <img width="720" src="https://images.unsplash.com/photo-1685663186841-9796da120d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU4MDUyMDd8&ixlib=rb-4.1.0&q=80&w=1080" alt="a herd of cows standing on a dirt road">
   
-  <em>a sheep and two lambs grazing in a field</em>
+  <em>a herd of cows standing on a dirt road</em>
   
-  <em>Sheep graze on a green hill in the Lake District</em>
+  <em>null</em>
   
-  Photo by [Veronica White](https://www.covestocliffs.com/portfolio) on [unsplash.com](https://unsplash.com/)
+  Photo by [Zoe Askew](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
