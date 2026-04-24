@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1760033444532-5dd7005cd659?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY5Mjg4MDB8&ixlib=rb-4.1.0&q=80&w=1080" alt="Green barn and silo on a farm">
+  <img width="720" src="https://images.unsplash.com/photo-1753303051826-fdab1d406a6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcwMTY3NzN8&ixlib=rb-4.1.0&q=80&w=1080" alt="Sunset shines over a rural landscape.">
   
-  <em>Green barn and silo on a farm</em>
+  <em>Sunset shines over a rural landscape.</em>
   
   <em>null</em>
   
-  Photo by [Oleg Bersenev](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Eirik Skarstein](https://www.eirikskarstein.com/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
