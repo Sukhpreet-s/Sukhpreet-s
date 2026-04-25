@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1753303051826-fdab1d406a6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcwMTY3NzN8&ixlib=rb-4.1.0&q=80&w=1080" alt="Sunset shines over a rural landscape.">
+  <img width="720" src="https://images.unsplash.com/photo-1709629106182-bcc37b62b2f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcxMDA0NTJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a cow standing in a field behind a fence">
   
-  <em>Sunset shines over a rural landscape.</em>
+  <em>a cow standing in a field behind a fence</em>
   
   <em>null</em>
   
-  Photo by [Eirik Skarstein](https://www.eirikskarstein.com/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Konstantin Chemeris](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
