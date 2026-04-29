@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1655979990741-c5cf5db49f0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzczNjM0MjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a sheep standing in a field">
+  <img width="720" src="https://images.unsplash.com/photo-1704725148102-4cad8a20b7eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc0NDk0Mjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="a small stream running through a lush green field">
   
-  <em>a sheep standing in a field</em>
+  <em>a small stream running through a lush green field</em>
   
   <em>null</em>
   
-  Photo by [Ajeet Panesar](https://ajeetpanesar.myportfolio.com/) on [unsplash.com](https://unsplash.com/)
+  Photo by [David S](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
