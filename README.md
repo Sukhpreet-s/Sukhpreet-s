@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1627246860058-9a90c05a6273?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc3OTQyODh8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field near green trees under blue sky during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1704725148102-4cad8a20b7eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc4ODI0NDl8&ixlib=rb-4.1.0&q=80&w=1080" alt="a small stream running through a lush green field">
   
-  <em>green grass field near green trees under blue sky during daytime</em>
+  <em>a small stream running through a lush green field</em>
   
   <em>null</em>
   
-  Photo by [Chloë Forbes-Kindlen](https://chloeforbesk.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [David S](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
