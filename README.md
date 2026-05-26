@@ -3,13 +3,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1601995163166-4151b2a7b89b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk3MDIyNzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="white and gray tent on brown field during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1602524682848-a58eb73eaeb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk3ODc5MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="red and white house surrounded by trees during daytime">
   
-  <em>white and gray tent on brown field during daytime</em>
+  <em>red and white house surrounded by trees during daytime</em>
   
-  <em>null</em>
+  <em>A quiet life in the country (IG: @clay.banks)</em>
   
-  Photo by [Taylor Siebert](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Clay Banks](http://claybanks.info) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
