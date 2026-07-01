@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1470423725703-b136e2a8254c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI4MDk1Njh8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field with house during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1666545743813-e692fb2b2430?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI4OTc5NzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a large green field">
   
-  <em>green grass field with house during daytime</em>
+  <em>a large green field</em>
   
-  <em>null</em>
+  <em>This is known as Terrace farming. These are widely used in hilly and sloppy areas. I spotted this beautiful greeny scene while traveling on a train. I loved these a lot. While traveling by train, most of the time you would find Farms a lot, more than empty dry lands.</em>
   
-  Photo by [Arno Smit](https://www.instagram.com/_entreprenerd) on [unsplash.com](https://unsplash.com/)
+  Photo by [Dreamy Robin](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
