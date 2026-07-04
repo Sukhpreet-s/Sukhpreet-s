@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1525734826689-2c53dedc44d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMwNjgzMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass">
+  <img width="720" src="https://images.unsplash.com/photo-1626906722163-bd4c03cb3b9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMxNTMyMzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="man in gray hoodie and blue denim jeans kneeling on green grass field during daytime">
   
-  <em>green grass</em>
+  <em>man in gray hoodie and blue denim jeans kneeling on green grass field during daytime</em>
   
-  <em>Divide</em>
+  <em>Strawberry Picking // Field workers in California are almost exclusively immigrants who work at back-breaking labor to support themselves and their families. Remember them with gratitude the next time you're buying produce. </em>
   
-  Photo by [Ivan Bandura](https://ivan.graphics) on [unsplash.com](https://unsplash.com/)
+  Photo by [Tim Mossholder](http://timmossholder.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
