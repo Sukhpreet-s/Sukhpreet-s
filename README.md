@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1761839257961-4dce65b72d99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMyNDA2NzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Tractor harvesting crops in a field">
+  <img width="720" src="https://images.unsplash.com/photo-1594691592772-4427be1ea26c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzMzE1MjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="green tractor on green field during daytime">
   
-  <em>Tractor harvesting crops in a field</em>
+  <em>green tractor on green field during daytime</em>
   
-  <em>null</em>
+  <em>Visit www.king-imaging.com for more agriculture related content!</em>
   
-  Photo by [Land O'Lakes, Inc.](http://www.landolakesinc.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Loren King](http://www.king-imaging.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
