@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1565647952915-9644fcd446a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM3NTQ5NzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="black farming harvesting machine">
+  <img width="720" src="https://images.unsplash.com/photo-1543591777-da7228e6d10c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM4NDI5Nzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="man and children standing in grass field during daytime">
   
-  <em>black farming harvesting machine</em>
+  <em>man and children standing in grass field during daytime</em>
   
-  <em>Farm</em>
+  <em>null</em>
   
-  Photo by [Robert Wiedemann](http://www.w-port.de) on [unsplash.com](https://unsplash.com/)
+  Photo by [Huseyin Kaya](https://www.novonto.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
