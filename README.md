@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1543372195-1d3915d8c0f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQyNzQ1ODl8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown wooden bench beside white wooden wall">
+  <img width="720" src="https://images.unsplash.com/photo-1665171567333-f3d6bc0951ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQzNTk0NTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="a horse in a fenced pasture">
   
-  <em>brown wooden bench beside white wooden wall</em>
+  <em>a horse in a fenced pasture</em>
   
   <em>null</em>
   
-  Photo by [Camylla Battani](http://westwavephoto.com/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Jon Tyson](http://jontyson.org) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
