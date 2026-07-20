@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1630277975641-38748ee8f41a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ0NDc3MzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1587745890135-20db8c79b027?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ1MzY1NDh8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field during daytime">
   
   <em>green grass field during daytime</em>
   
-  <em>Farm fields from above </em>
+  <em>Fields</em>
   
-  Photo by [Jim Niakaris](https://linktr.ee/JNVisuals) on [unsplash.com](https://unsplash.com/)
+  Photo by [Maria Krasnova](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
