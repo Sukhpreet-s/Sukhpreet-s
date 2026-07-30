@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1574097880168-21606735d77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUzMTI5NTJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="cabin in forest">
+  <img width="720" src="https://images.unsplash.com/photo-1705113998946-1eefc7961c24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUzOTg2NTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a pile of shovels and forks laying on the ground">
   
-  <em>cabin in forest</em>
+  <em>a pile of shovels and forks laying on the ground</em>
   
-  <em>A barn in Columbia, TN, south of Nashville</em>
+  <em>null</em>
   
-  Photo by [Chris King](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Wisely Woven](https://wiselywoven.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
