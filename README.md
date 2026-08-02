@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1651592278720-fd9479be2a9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU1NzEyMDV8&ixlib=rb-4.1.0&q=80&w=1080" alt="a man kneeling on the ground">
+  <img width="720" src="https://images.unsplash.com/photo-1511117833895-4b473c0b85d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU2NTc3MTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="four lambs on ground">
   
-  <em>a man kneeling on the ground</em>
+  <em>four lambs on ground</em>
   
-  <em>Planting agrostemma (corn cockle flower). Image by Zoe Schaeffer @dirtjoy at Pasture Song Farm in Pottstown, Pennsylvania </em>
+  <em>Sheep</em>
   
-  Photo by [Zoe Richardson](http://farmsteadphoto.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Judith Prins](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
