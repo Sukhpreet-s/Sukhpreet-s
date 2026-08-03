@@ -20,13 +20,14 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1511117833895-4b473c0b85d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU2NTc3MTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="four lambs on ground">
+  <img width="720" src="https://images.unsplash.com/photo-1504224357642-c87eacea1da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU3NDc1MTJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="man wearing gray long-sleeved shirt on green grass field">
   
-  <em>four lambs on ground</em>
+  <em>man wearing gray long-sleeved shirt on green grass field</em>
   
-  <em>Sheep</em>
+  <em>Taken on an organic cattle property in Bowral, NSW, Australia.  
+Col was the farm manager, my partner at the time was building a series of dry-stone walls.</em>
   
-  Photo by [Judith Prins](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Rebecca Ritchie](https://rebeccaritchie.art) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
