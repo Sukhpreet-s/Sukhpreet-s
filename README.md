@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1629016429417-0a01981c3cb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY0MzA2Mzd8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field near mountains under white clouds and blue sky during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1761839258830-81f87b1c6d62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY1MTgyNzV8&ixlib=rb-4.1.0&q=80&w=1080" alt="Girl opening chicken coop door with hens nearby">
   
-  <em>green grass field near mountains under white clouds and blue sky during daytime</em>
+  <em>Girl opening chicken coop door with hens nearby</em>
   
-  <em>Driving through Bosnia and Herzegovina.</em>
+  <em>null</em>
   
-  Photo by [Ilse](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Land O'Lakes, Inc.](http://www.landolakesinc.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
