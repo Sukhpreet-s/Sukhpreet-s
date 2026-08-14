@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1475084124271-aebaf8a67166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY2MDQ5MDh8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photography of brown and green fileds">
+  <img width="720" src="https://images.unsplash.com/photo-1498191923457-88552caeccb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY2OTExMTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="herd of cows on grassland">
   
-  <em>aerial photography of brown and green fileds</em>
+  <em>herd of cows on grassland</em>
   
-  <em>null</em>
+  <em>More adventures in my own backyard.</em>
   
-  Photo by [Sveta Fedarava](https://www.flickr.com/photos/fedarava/albums) on [unsplash.com](https://unsplash.com/)
+  Photo by [Priscilla Du Preez 🇨🇦](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
