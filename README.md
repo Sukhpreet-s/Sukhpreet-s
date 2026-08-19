@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1594691592772-4427be1ea26c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcwMzQxMTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="green tractor on green field during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1515524042669-de726ea3283d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcxMjA1NjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of green field with fence">
   
-  <em>green tractor on green field during daytime</em>
+  <em>landscape photography of green field with fence</em>
   
-  <em>Visit www.king-imaging.com for more agriculture related content!</em>
+  <em>null</em>
   
-  Photo by [Loren King](http://www.king-imaging.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Collin](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
