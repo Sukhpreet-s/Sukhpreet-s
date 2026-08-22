@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1590682680695-43b964a3ae17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyOTM0ODd8&ixlib=rb-4.1.0&q=80&w=1080" alt="Hands covered in dark soil planting a small green seedling in the ground">
+  <img width="720" src="https://images.unsplash.com/photo-1530257543896-1e0d096c7157?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczNzk1NDJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="green sod with trees">
   
-  <em>Hands covered in dark soil planting a small green seedling in the ground</em>
+  <em>green sod with trees</em>
   
-  <em>Hemp planting at farm | greenforcestaffing.com</em>
+  <em>Dancing hills 788</em>
   
-  Photo by [GreenForce Staffing](http://greenforcestaffing.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Ricardo Gomez Angel](https://www.rgaleria.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
