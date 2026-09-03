@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1670927519969-dc5065aa5641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgzNDM1ODR8&ixlib=rb-4.1.0&q=80&w=1080" alt="a man wearing a hat standing in a field">
+  <img width="720" src="https://images.unsplash.com/photo-1481555716071-8830d3e254ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg0MzA2NDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="person riding brown combine harvester during daytime">
   
-  <em>a man wearing a hat standing in a field</em>
+  <em>person riding brown combine harvester during daytime</em>
   
-  <em>May 1973: David Frazer, Utica, Nebraska (Charles O'Rear / Documerica)</em>
+  <em>Sunset Harvest</em>
   
-  Photo by [Documerica](http://DOCUMERICA.org) on [unsplash.com](https://unsplash.com/)
+  Photo by [Noah Buscher](https://noahbuscher.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
