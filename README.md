@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1634143174678-ecd0c3c2375b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg1MTYzNDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="a tractor is driving through a large field">
+  <img width="720" src="https://images.unsplash.com/photo-1571524188026-cc1d649962ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg2MDA5MzV8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown barn house">
   
-  <em>a tractor is driving through a large field</em>
+  <em>brown barn house</em>
   
-  <em>Harvest in southwest Michigan.</em>
+  <em>Swedish countryside</em>
   
-  Photo by [Loren King](http://www.king-imaging.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Alex Kotomanov](https://www.kotomanov.photo/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
