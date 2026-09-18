@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1437252611977-07f74518abd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk2NDEzMDl8&ixlib=rb-4.1.0&q=80&w=1080" alt="wheat field">
+  <img width="720" src="https://images.unsplash.com/photo-1761839258671-6495fdc188b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk3MjYyNzN8&ixlib=rb-4.1.0&q=80&w=1080" alt="Family picking apples from a tree in an orchard">
   
-  <em>wheat field</em>
+  <em>Family picking apples from a tree in an orchard</em>
   
-  <em>Wheat Field</em>
+  <em>null</em>
   
-  Photo by [Melissa Askew](http://melissaaskew.vsco.co) on [unsplash.com](https://unsplash.com/)
+  Photo by [Land O'Lakes, Inc.](http://www.landolakesinc.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
