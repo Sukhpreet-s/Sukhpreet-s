@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1600150806193-cf869bcfee05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk4MTE1NTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="people running on dirt road during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1688261548320-d608f8255e02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk4OTkyNDB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a large field of green plants with trees in the background">
   
-  <em>people running on dirt road during daytime</em>
+  <em>a large field of green plants with trees in the background</em>
   
-  <em>null</em>
+  <em>A photo of a vineyard in early summer in Polk County, Oregon, which is part of the Willamette Valley's wine region.</em>
   
-  Photo by [Deepak kumar](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Dan Meyers](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
