@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1721545351803-4d2ff6b13c96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA1MDY2OTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="An aerial view of a tractor in a corn field">
+  <img width="720" src="https://images.unsplash.com/photo-1598722818387-cbdaa0dc58d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA1OTc2ODF8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field under cloudy sky during daytime">
   
-  <em>An aerial view of a tractor in a corn field</em>
+  <em>green grass field under cloudy sky during daytime</em>
   
-  <em>An aerial view of a combine harvester and a tractor with a trailer working in adjacent fields, one green and the other golden from the harvest. The machinery operates close to a narrow rural road, emphasizing the precision and efficiency of modern farming practices. The top-down perspective highlights the contrast between the harvested and unharvested sections of the fields, showcasing a dynamic agricultural landscape.</em>
+  <em>null</em>
   
-  Photo by [Bernd 📷 Dittrich](https://www.instagram.com/hdbernd/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Sini Tiainen](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
