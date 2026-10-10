@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1575170176037-d067de3866b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE1NDgwMDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="farmland">
+  <img width="720" src="https://images.unsplash.com/photo-1503453363464-743ee9ce1584?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE2MzE4NTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="desert under blue skies">
   
-  <em>farmland</em>
+  <em>desert under blue skies</em>
   
-  <em>Ohara fields, sunset</em>
+  <em>GOLD/WHEAT</em>
   
-  Photo by [Amandine L.](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Yuriy Bogdanov](https://www.instagram.com/profepix/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
