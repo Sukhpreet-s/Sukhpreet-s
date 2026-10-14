@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1605056545110-c2ef2253aa8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE4OTY3Mzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="red round fruits on green leaves">
+  <img width="720" src="https://images.unsplash.com/photo-1655048410161-a5a908bb54a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE5NzQ4MTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a tractor driving on a dirt road">
   
-  <em>red round fruits on green leaves</em>
+  <em>a tractor driving on a dirt road</em>
   
-  <em>Strawberry farm</em>
+  <em>Planting male row corn in a field in Southwest Michigan.</em>
   
-  Photo by [Nao Takabayashi](https://naotakabayashi.myportfolio.com/work) on [unsplash.com](https://unsplash.com/)
+  Photo by [Loren King](http://www.king-imaging.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
