@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1761839258575-038fef381ee7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIxNDU3OTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="Two people working with a laptop outside greenhouse">
+  <img width="720" src="https://images.unsplash.com/photo-1686381656402-c380157b76f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIyMzA2NTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="a field full of hay bales on a sunny day">
   
-  <em>Two people working with a laptop outside greenhouse</em>
+  <em>a field full of hay bales on a sunny day</em>
   
-  <em>A multiracial couple works on their farm in rural Washington state.</em>
+  <em>Farmland in Victoria, Australia is adorned with vast Hays fields</em>
   
-  Photo by [Land O'Lakes, Inc.](http://www.landolakesinc.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Chittima Stanmore](https://cstanmorecreative.wixsite.com/cs-creative) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
