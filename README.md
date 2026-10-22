@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1634584604272-de4c0ba97c44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI1Nzk1NDR8&ixlib=rb-4.1.0&q=80&w=1080" alt="a tractor parked in front of a shed">
+  <img width="720" src="https://images.unsplash.com/photo-1528693404014-b13ebe6e723e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI2NjYwMTF8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of man standing on rice field">
   
-  <em>a tractor parked in front of a shed</em>
+  <em>photo of man standing on rice field</em>
   
-  <em>an old tractor in a barn at the local pumpkin patch. Allis-chalmers tractor.</em>
+  <em>Farmer in the field</em>
   
-  Photo by [Kelsey Todd](https://www.thegoldenlamb.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Nandhu Kumar](https://www.pexels.com/@nandhukumar) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
