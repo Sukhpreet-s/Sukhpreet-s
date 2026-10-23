@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1528693404014-b13ebe6e723e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI2NjYwMTF8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of man standing on rice field">
+  <img width="720" src="https://images.unsplash.com/photo-1697627903173-e22b6e04734d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI3NTE5Mjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="a grassy field with trees in the background">
   
-  <em>photo of man standing on rice field</em>
+  <em>a grassy field with trees in the background</em>
   
-  <em>Farmer in the field</em>
+  <em>null</em>
   
-  Photo by [Nandhu Kumar](https://www.pexels.com/@nandhukumar) on [unsplash.com](https://unsplash.com/)
+  Photo by [Eusebiu Soica](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
