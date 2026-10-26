@@ -20,14 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1594760910270-8720de623883?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI5MjM1NTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field with trees and houses">
+  <img width="720" src="https://images.unsplash.com/photo-1529766344952-5935b1af9a73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMwMTUxODJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown sheep">
   
-  <em>green grass field with trees and houses</em>
+  <em>brown sheep</em>
   
-  <em>View across Tweeddale, Manor Sware, Peebles, Scotland
-</em>
+  <em>Sheep Pose</em>
   
-  Photo by [Stephen Talas](https://www.designvst.com/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Greg Willson](http://gregwillson.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
