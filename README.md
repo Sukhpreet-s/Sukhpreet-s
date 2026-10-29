@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1441122456239-401e92b73c65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMxODc5NjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="flock of hen near gray wall">
+  <img width="720" src="https://images.unsplash.com/photo-1560493676-04071c5f467b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMyNzQ4NjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="rows of green crops in field at sunset">
   
-  <em>flock of hen near gray wall</em>
+  <em>rows of green crops in field at sunset</em>
   
-  <em>Arkansas chickens</em>
+  <em>This shot makes me thirsty! I love how this shot turned out. I was about 10 meters above the ground with my Mavic Pro. This is a small winery in the mid-Willamette Valley outside Salem, Oregon. This is one of the biggest wine-producing areas in the country and it makes for some wonderful evening drone flights. </em>
   
-  Photo by [Brooke Cagle](https://www.tributarystudio.co/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Dan Meyers](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
