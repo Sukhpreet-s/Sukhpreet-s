@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1634143174678-ecd0c3c2375b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM1MzUyMDB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a tractor is driving through a large field">
+  <img width="720" src="https://images.unsplash.com/photo-1599635406076-0f40532a59fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM2MjgxODR8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown horse on green grass field during daytime">
   
-  <em>a tractor is driving through a large field</em>
+  <em>brown horse on green grass field during daytime</em>
   
-  <em>Harvest in southwest Michigan.</em>
+  <em>Horses on a green pasture during sunrise mood with morning dew.</em>
   
-  Photo by [Loren King](http://www.king-imaging.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Daniel Krueger](https://rotlux.de) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
