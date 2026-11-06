@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1524553496250-1a722745ae00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM4ODU5NjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="green leaf">
+  <img width="720" src="https://images.unsplash.com/photo-1761839257870-06874bda71b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM5NzEzNzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="Man holding tablet standing by a wooden fence outdoors">
   
-  <em>green leaf</em>
+  <em>Man holding tablet standing by a wooden fence outdoors</em>
   
-  <em>Pattern</em>
+  <em>null</em>
   
-  Photo by [Hakan Yalcin](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Land O'Lakes, Inc.](http://www.landolakesinc.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
