@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1560493676-04071c5f467b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQwNTI4NTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="rows of green crops in field at sunset">
+  <img width="720" src="https://images.unsplash.com/photo-1571524188026-cc1d649962ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQxNDA1MTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown barn house">
   
-  <em>rows of green crops in field at sunset</em>
+  <em>brown barn house</em>
   
-  <em>This shot makes me thirsty! I love how this shot turned out. I was about 10 meters above the ground with my Mavic Pro. This is a small winery in the mid-Willamette Valley outside Salem, Oregon. This is one of the biggest wine-producing areas in the country and it makes for some wonderful evening drone flights. </em>
+  <em>Swedish countryside</em>
   
-  Photo by [Dan Meyers](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Alex Kotomanov](https://www.kotomanov.photo/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
