@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1655929299728-93ee15ed7967?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQzMTg4NDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="a close-up of some plants">
+  <img width="720" src="https://images.unsplash.com/photo-1624720114708-0cbd6ee41f4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ0MDI0MDd8&ixlib=rb-4.1.0&q=80&w=1080" alt="man in green dress shirt and gray pants standing on green plants during daytime">
   
-  <em>a close-up of some plants</em>
+  <em>man in green dress shirt and gray pants standing on green plants during daytime</em>
   
-  <em>Please DO NOT use this on etsy or somewhere as a background. </em>
+  <em>null</em>
   
-  Photo by [Reba Spike](http://instagram.com/starfleetpets) on [unsplash.com](https://unsplash.com/)
+  Photo by [Zoe Richardson](http://farmsteadphoto.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
