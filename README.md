@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1624720114708-0cbd6ee41f4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ0MDI0MDd8&ixlib=rb-4.1.0&q=80&w=1080" alt="man in green dress shirt and gray pants standing on green plants during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1590682680695-43b964a3ae17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ0OTI1Nzd8&ixlib=rb-4.1.0&q=80&w=1080" alt="Hands covered in dark soil planting a small green seedling in the ground">
   
-  <em>man in green dress shirt and gray pants standing on green plants during daytime</em>
+  <em>Hands covered in dark soil planting a small green seedling in the ground</em>
   
-  <em>null</em>
+  <em>Hemp planting at farm | greenforcestaffing.com</em>
   
-  Photo by [Zoe Richardson](http://farmsteadphoto.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [GreenForce Staffing](http://greenforcestaffing.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
