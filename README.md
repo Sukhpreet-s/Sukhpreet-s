@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1592158141916-399d9e7d6afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ1NzY4MDR8&ixlib=rb-4.1.0&q=80&w=1080" alt="green and gray textile on brown wooden table">
+  <img width="720" src="https://images.unsplash.com/photo-1696441567861-6761b9e503a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ2NTk5NTJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a tractor is driving through a field of hay">
   
-  <em>green and gray textile on brown wooden table</em>
+  <em>a tractor is driving through a field of hay</em>
   
-  <em>“Hijau”. Tenang adalah kebutuhan, dan alam selalu menghadirkannya.</em>
+  <em>null</em>
   
-  Photo by [kang jebrew](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Hannah Shedrow](null) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
