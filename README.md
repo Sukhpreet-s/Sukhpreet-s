@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1696441567861-6761b9e503a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ2NTk5NTJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a tractor is driving through a field of hay">
+  <img width="720" src="https://images.unsplash.com/photo-1655048410161-a5a908bb54a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ3NDc4ODl8&ixlib=rb-4.1.0&q=80&w=1080" alt="a tractor driving on a dirt road">
   
-  <em>a tractor is driving through a field of hay</em>
+  <em>a tractor driving on a dirt road</em>
   
-  <em>null</em>
+  <em>Planting male row corn in a field in Southwest Michigan.</em>
   
-  Photo by [Hannah Shedrow](null) on [unsplash.com](https://unsplash.com/)
+  Photo by [Loren King](http://www.king-imaging.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
