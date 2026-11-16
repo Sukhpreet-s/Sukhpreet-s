@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1655048410161-a5a908bb54a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ3NDc4ODl8&ixlib=rb-4.1.0&q=80&w=1080" alt="a tractor driving on a dirt road">
+  <img width="720" src="https://images.unsplash.com/photo-1523867574998-1a336b6ded04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ4MzgyOTF8&ixlib=rb-4.1.0&q=80&w=1080" alt="bird's eye view of field">
   
-  <em>a tractor driving on a dirt road</em>
+  <em>bird's eye view of field</em>
   
-  <em>Planting male row corn in a field in Southwest Michigan.</em>
+  <em>Cherry- and apple blossom in Franconia Switzerland</em>
   
-  Photo by [Loren King](http://www.king-imaging.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Markus Spiske](https://markusspiske.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
