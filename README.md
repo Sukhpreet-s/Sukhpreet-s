@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1523867574998-1a336b6ded04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ4MzgyOTF8&ixlib=rb-4.1.0&q=80&w=1080" alt="bird's eye view of field">
+  <img width="720" src="https://images.unsplash.com/photo-1586973831237-7d8dd03a996f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ5Mjc4MTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="woman in blue t-shirt and brown shorts standing on flower field during daytime">
   
-  <em>bird's eye view of field</em>
+  <em>woman in blue t-shirt and brown shorts standing on flower field during daytime</em>
   
-  <em>Cherry- and apple blossom in Franconia Switzerland</em>
+  <em>Clara Osbourne, owner and farmer of Pasture Song Farm in Chester County, PA, harvests organic ranunculus for spring bouquets</em>
   
-  Photo by [Markus Spiske](https://markusspiske.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Zoe Richardson](http://farmsteadphoto.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
