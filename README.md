@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1663787592266-83531755a7e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUwMTMwMjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="a few old tractors">
+  <img width="720" src="https://images.unsplash.com/photo-1761839258671-6495fdc188b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUwOTk4NDV8&ixlib=rb-4.1.0&q=80&w=1080" alt="Family picking apples from a tree in an orchard">
   
-  <em>a few old tractors</em>
+  <em>Family picking apples from a tree in an orchard</em>
   
-  <em>three different colored wheel barrows against a metal shed</em>
+  <em>null</em>
   
-  Photo by [Marsha Reid](https://vsco.co/shapescolors/gallery) on [unsplash.com](https://unsplash.com/)
+  Photo by [Land O'Lakes, Inc.](http://www.landolakesinc.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
