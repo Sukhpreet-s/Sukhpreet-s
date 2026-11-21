@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1609984263066-3535ad427873?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUxODUxMDl8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field near green trees under white sky during daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1571524188026-cc1d649962ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUyNjkwMzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown barn house">
   
-  <em>green grass field near green trees under white sky during daytime</em>
+  <em>brown barn house</em>
   
-  <em>View of a vegetable plantation on the slopes of a mountain with light clouds and light fog</em>
+  <em>Swedish countryside</em>
   
-  Photo by [Aldrin Rachman Pradana](http://www.aldrinrachmanpradana.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Alex Kotomanov](https://www.kotomanov.photo/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
