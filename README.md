@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1571524188026-cc1d649962ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUyNjkwMzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown barn house">
+  <img width="720" src="https://images.unsplash.com/photo-1641939193329-7071068dc40f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUzNTUwMDJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a group of cows grazing on a lush green field">
   
-  <em>brown barn house</em>
+  <em>a group of cows grazing on a lush green field</em>
   
-  <em>Swedish countryside</em>
+  <em>Cows grazing in a field during a cloudy day, windmills on the horizon</em>
   
-  Photo by [Alex Kotomanov](https://www.kotomanov.photo/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Daniela Paola Alchapar](https://www.deviantart.com/paoalchapar/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
