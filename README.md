@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1641939193329-7071068dc40f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUzNTUwMDJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a group of cows grazing on a lush green field">
+  <img width="720" src="https://images.unsplash.com/photo-1560198927-b31ef30c5867?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU0NTIyMzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial view of green field">
   
-  <em>a group of cows grazing on a lush green field</em>
+  <em>aerial view of green field</em>
   
-  <em>Cows grazing in a field during a cloudy day, windmills on the horizon</em>
+  <em>Terraced fields scenery</em>
   
-  Photo by [Daniela Paola Alchapar](https://www.deviantart.com/paoalchapar/) on [unsplash.com](https://unsplash.com/)
+  Photo by [Ivan Bandura](https://ivan.graphics) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
