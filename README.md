@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1560198927-b31ef30c5867?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU0NTIyMzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial view of green field">
+  <img width="720" src="https://images.unsplash.com/photo-1437252611977-07f74518abd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU1MzgzNDZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="wheat field">
   
-  <em>aerial view of green field</em>
+  <em>wheat field</em>
   
-  <em>Terraced fields scenery</em>
+  <em>Wheat Field</em>
   
-  Photo by [Ivan Bandura](https://ivan.graphics) on [unsplash.com](https://unsplash.com/)
+  Photo by [Melissa Askew](http://melissaaskew.vsco.co) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
