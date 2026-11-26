@@ -20,13 +20,13 @@
 ----
 
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1469122312224-c5846569feb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU2MjM3Mzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass at daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1761839258830-81f87b1c6d62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0OTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU3MDg2MjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Girl opening chicken coop door with hens nearby">
   
-  <em>green grass at daytime</em>
+  <em>Girl opening chicken coop door with hens nearby</em>
   
   <em>null</em>
   
-  Photo by [Glenn Carstens-Peters](https://abgeknipst.de) on [unsplash.com](https://unsplash.com/)
+  Photo by [Land O'Lakes, Inc.](http://www.landolakesinc.com) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
